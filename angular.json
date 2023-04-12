@@ -3,7 +3,7 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "andresjosehr-portfolio": {
+        "muffeez-portfolio": {
             "projectType": "application",
             "schematics": {},
             "root": "",
@@ -19,7 +19,7 @@
                 "build": {
                     "builder": "@angular-devkit/build-angular:browser",
                     "options": {
-                        "outputPath": "dist/andresjosehr-portfolio",
+                        "outputPath": "dist/muffeez-portfolio",
                         "index": "src/index.html",
                         "main": "src/main.ts",
                         "polyfills": "src/polyfills.ts",
@@ -85,18 +85,18 @@
                 "serve": {
                     "builder": "@angular-devkit/build-angular:dev-server",
                     "options": {
-                        "browserTarget": "andresjosehr-portfolio:build"
+                        "browserTarget": "muffeez-portfolio:build"
                     },
                     "configurations": {
                         "production": {
-                            "browserTarget": "andresjosehr-portfolio:build:production"
+                            "browserTarget": "muffeez-portfolio:build:production"
                         }
                     }
                 },
                 "extract-i18n": {
                     "builder": "@angular-devkit/build-angular:extract-i18n",
                     "options": {
-                        "browserTarget": "andresjosehr-portfolio:build"
+                        "browserTarget": "muffeez-portfolio:build"
                     }
                 },
                 "test": {
@@ -134,18 +134,18 @@
                     "builder": "@angular-devkit/build-angular:protractor",
                     "options": {
                         "protractorConfig": "e2e/protractor.conf.js",
-                        "devServerTarget": "andresjosehr-portfolio:serve"
+                        "devServerTarget": "muffeez-portfolio:serve"
                     },
                     "configurations": {
                         "production": {
-                            "devServerTarget": "andresjosehr-portfolio:serve:production"
+                            "devServerTarget": "muffeez-portfolio:serve:production"
                         }
                     }
                 }
             }
         }
     },
-    "defaultProject": "andresjosehr-portfolio",
+    "defaultProject": "muffeez-portfolio",
     "schematics": {
         "@schematics/angular:component": {
             "styleext": "scss"
