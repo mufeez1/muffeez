@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1681314263853,
+  "timestamp": 1681314964486,
   "index": "/muffeez/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/muffeez/favicon.ico",
         "/muffeez/index.html",
-        "/muffeez/main.254f3c5131fd69d3.js",
+        "/muffeez/main.fb52ab43955b2ec1.js",
         "/muffeez/manifest.webmanifest",
         "/muffeez/polyfills.200bb17635a854ed.js",
         "/muffeez/runtime.e6fefcc9a9c28c77.js",
@@ -106,6 +106,7 @@
         "/muffeez/assets/i18n/en.json",
         "/muffeez/assets/images/bbm/image1.png",
         "/muffeez/assets/images/bbm/image2.png",
+        "/muffeez/assets/images/folder.svg",
         "/muffeez/assets/images/mazhr/image1.png",
         "/muffeez/assets/images/mazhr/needle.png",
         "/muffeez/assets/images/me.svg",
@@ -212,6 +213,7 @@
     "/muffeez/assets/i18n/en.json": "de9b55d0b984484fdb4c8d350af6ae36eec34470",
     "/muffeez/assets/images/bbm/image1.png": "cb467b60616e42482591cf884b3e4198c685598d",
     "/muffeez/assets/images/bbm/image2.png": "acb83c2b257b09ddb8967db4950ed0399cbefafd",
+    "/muffeez/assets/images/folder.svg": "024e52150f03c8e0f77d17979a27ae94830678be",
     "/muffeez/assets/images/mazhr/image1.png": "8e2295090dcc83651ef57eb8feefa0d114237425",
     "/muffeez/assets/images/mazhr/needle.png": "28804df2d3332940561459e2a990d1414873b981",
     "/muffeez/assets/images/me.svg": "a3f53ab5a693a028b2b703449b9f8b2fd02565c6",
@@ -236,8 +238,8 @@
     "/muffeez/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "/muffeez/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "/muffeez/favicon.ico": "97c827d7b24e8fa8795e691c55f62129e3c29f6d",
-    "/muffeez/index.html": "67dc3e0aa58b8fe6facf1dfe6aca46bf7f49a9cf",
-    "/muffeez/main.254f3c5131fd69d3.js": "1be68e8623675fbe7e5d3f1055a29d7ffbdb4c94",
+    "/muffeez/index.html": "680b57e545342f593f318a09020552f4324a4b6c",
+    "/muffeez/main.fb52ab43955b2ec1.js": "c8a25e6663ccafd62b89f626bc8eb25d2cc2b12f",
     "/muffeez/manifest.webmanifest": "9baa151d44f31193283ded7acfc55c431e33b5f5",
     "/muffeez/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/muffeez/polyfills.200bb17635a854ed.js": "a17eb1c3d674d50bf53a903e78971e23ae8b109e",
