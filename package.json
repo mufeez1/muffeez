@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng deploy --base-href=https://mufeez1.github.io/muffeez/"
+    "deploy": "ng build --prod --base-href /muffeez/ && ngh --dir=dist/muffeez-portfolio "
   },
   "private": true,
   "dependencies": {
@@ -42,6 +42,7 @@
     "@types/jasmine": "~3.6.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^1.0.5",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
