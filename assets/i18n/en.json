@@ -6,20 +6,33 @@
     "Header.cvBtn": "Resume",
     "Header.cvName": "MUFFEEZ_CV.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
+    "Banner.Description": "I have <span class='underline'>4+ years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS, ExpressJS and NestJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "In my <span class='underline'>4+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
         "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
         {
+            "Tab": "Classera",
+            "Title": "Software Engineer",
+            "Date": "August 2023 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
+                "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
+                "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
+                "Implementation of continuous integration and daily backups.",
+                "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
+                "Planning meetings in reports."
+            ]
+        },
+        {
             "Tab": "Emblem",
             "Title": "Fullstack developer",
-            "Date": "March 2022 - Present",
+            "Date": "March 2022 - August 2023",
             "Description": [
                 "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
                 "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
@@ -65,11 +78,13 @@
                 "assets/images/school/image1.png",
                 "assets/images/school/image2.png"
             ],
+            "demoLink":"https://www.2xschool.com/",
             "Technologies": [
                 "Angular",
                 "SASS",
                 "Angular Material",
-                "RxJS"
+                "RxJS",
+                "NgRx"
             ]
         },
         {
@@ -79,6 +94,7 @@
                 "assets/images/bbm/image1.png",
                 "assets/images/bbm/image2.png"
             ],
+            "demoLink":"https://www.bestbuymall.pk/businesses/Lahore",
             "Technologies": [
                 "Angular",
                 "SASS",
@@ -93,6 +109,7 @@
             "imgs": [
                 "assets/images/mazhr/image1.png"
             ],
+            "demoLink":"https://www.mazhr.com/",
             "Technologies": [
                 "React",
                 "SASS",
